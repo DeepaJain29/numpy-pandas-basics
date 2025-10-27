@@ -1,0 +1,7 @@
+Name,Age,Monthly_Income,Department,Experience_Years,Tax,Net_Income,Manager
+Alice,25,50000.0,HR,2,5000.0,45000.0,Sophia
+Bob,30,60000.0,Tech,5,6000.0,54000.0,Liam
+Charlie,35,75000.0,Tech,7,7500.0,67500.0,Liam
+David,29,80000.0,HR,10,8000.0,72000.0,Sophia
+Eva,28,67500.0,Finance,3,6750.0,60750.0,Noah
+Frank,26,48000.0,Tech,1,4800.0,43200.0,Liam
